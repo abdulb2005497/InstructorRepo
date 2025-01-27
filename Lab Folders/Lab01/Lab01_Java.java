@@ -8,6 +8,7 @@ void testMethod1()
 
   //Last line print('Good bye')
 }
+ // Edit made by Abdul Basit - 230059052
 
 void testMethod2()
   {
@@ -21,3 +22,4 @@ void main()
     testMethod1();
     testMethod2();
 }
+
